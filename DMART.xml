@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE GROCERY [
+<!ELEMENT GROCERY (to,from,subject,messsage)>
+<!ELEMENT to (#PCDATA)>
+<!ELEMENT from (#PCDATA)>
+<!ELEMENT subject (#PCDATA)>
+<!ELEMENT message (#PCDATA)>
+]>
+
+<GROCERY>
+    <to>ROHAN</to>
+    <from>DMART SERVICES</from>
+    <subject>THANKYOU FOR VISITING</subject>
+    <message>gg</message>
+</GROCERY>
